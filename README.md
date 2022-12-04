@@ -2,6 +2,7 @@
 Simple program that illustrates how evolution theory works.
 
 **HOW TO USE**
+
 Create a folder and copy paste all files.
 From terminal navigate to that file and make the bash script executable 
 
@@ -14,8 +15,9 @@ Then run the executable, where you can specify number of Steps and number of blo
 ./run.sh {step_value} {block_value}
 
 
-**
-MAIN DESCRIPTION**
+
+
+**MAIN DESCRIPTION**
 
 The program as writtern assignes a value 'theta' between -1 and 1 to each object. This value maps to a probability that the object will create a new object at each step (here via a normal distribution).
 
